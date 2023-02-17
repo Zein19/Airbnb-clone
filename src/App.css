@@ -42,6 +42,11 @@ nav {
     margin-top: 0;
 }
 
+.card{
+    width: 11em;
+    font-size: 0.75rem;
+}
+
 .card-info {
     display: flex;
     align-items: center;
